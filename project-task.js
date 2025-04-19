@@ -73,6 +73,7 @@ for (let i = 0; i < names.length; i++) {
 
 // ✅ Your refactored code goes below this line!
 
+// Script 1 - Greeting multiple users
 let greetUser = function (name) {
   return console.log("Welcome, " + name + "!");
 };
